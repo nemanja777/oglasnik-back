@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Admin
+Build-Jdk: 11.0.8
+Implementation-Title: Test Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ftninformatika.jwd
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
